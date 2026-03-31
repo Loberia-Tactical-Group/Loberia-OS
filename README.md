@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Loberia-OS Logo.png" width="800" alt="Loberia-OS Alpha Node Logo">
+</p>
+
+---
+
 # 🐺 Loberia-OS | Tactical Hardening Suite
 > **"Vigilance, Strength, and Privacy in the System's DNA."**
 
